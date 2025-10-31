@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @GordoDbrewer
-- 👀 I’m interested in android studio
-- 🌱 I’m currently learning app development
+# 👋 Hey, I’m Gordon
 
+Brewer 🍺 | Developer 💻 | Energy geek ⚡  
+Learning Android development in Kotlin and building practical apps that connect the digital and physical world.
 
-<!---
-GordoDbrewer/GordoDbrewer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 Learning: Android Studio, Firebase, Jetpack Compose  
+- 🧠 Interests: Brewing tech, IoT, sustainability, app design  
+- 🚀 Projects: “Keg Margin Calculator” & "Keg Tracking App"  
+
+📍 Based in Ballyvourney, Ireland  
+
